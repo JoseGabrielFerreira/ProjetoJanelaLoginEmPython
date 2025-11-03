@@ -14,7 +14,7 @@ Tecnologias
 - Tkinter
 - Biblioteca OS
 
-##Exemplo
+Exemplo:
 O programa cria um arquivo `texto.txt` com cadastros no formato:
 
 ID: 1
@@ -22,7 +22,7 @@ João Silva
 joao@email.com
 12345
 
-##Autor
+Autor:
 José Gabriel Ferreira Batista da Cruz 
 josegabrielcontatojob@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/josegabrielcruz/) | [GitHub](https://github.com/JoseGabrielFerreira)
